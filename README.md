@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Snapshots
-<img src="https://github.com/kevinjad/Text_Recognition_Software/Screenshot_20200710-214016.jpg" width="48">
-![](/Screenshot_20200710-214016.jpg | height=100px)
+
+![](/Screenshot_20200710-214016.jpg)
 ![](/Screenshot_20200710-214100_Camera.jpg)
 ![](/Screenshot_20200710-214112.jpg)
