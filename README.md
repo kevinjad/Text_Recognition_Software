@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Snapshots
 
-![](/Screenshot_20200710-214016.jpg)
+![](/Screenshot_20200710-214016.jpg {width=40px height=400px})
 ![](/Screenshot_20200710-214100_Camera.jpg)
 ![](/Screenshot_20200710-214112.jpg)
