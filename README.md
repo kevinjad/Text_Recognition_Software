@@ -20,3 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 ![](/Screenshot_20200710-214016.jpg)
 ![](/Screenshot_20200710-214100_Camera.jpg)
 ![](/Screenshot_20200710-214112.jpg)
+![](/Screenshot_20200710-220429.jpg)
