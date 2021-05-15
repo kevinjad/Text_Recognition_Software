@@ -1,6 +1,6 @@
-# firebase_try
+# Text Recognition Software
 
-A new Flutter project.
+A Flutter application that can recognize text from images.
 
 ## Getting Started
 
