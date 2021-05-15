@@ -1,6 +1,6 @@
 # Text Recognition Software
 
-A Flutter application that can recognize text from images.
+A Flutter application that can recognize texts from images.
 
 ## Getting Started
 
